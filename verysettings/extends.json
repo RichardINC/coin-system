@@ -1,0 +1,19 @@
+{
+    "sunucuID" : "835940775136985118",
+    "sunucuIsmi": "Detroit",
+    "sunucuCapsIsmi": "DETROIT",
+    "tag": "ム",
+    "tagsiz": "✧",
+    "yasakTaglar": ["yasaklıtaggirinbunu"],
+    "link": "https://discord.gg/detroit",
+    "minYaş": "15",
+    "taglıalım": false,
+
+    "embed": {
+        "iconURL": "https://media.discordapp.net/attachments/799398337480228864/833962213239816192/a_989b69e60c7b9ef6c4a6d205b5871f89.gif",
+        "başlık": "RICHARDISTAN",
+        "altbaşlık": "Thans ❤ Richârd",
+        "renk": "RANDOM"
+    }
+
+}
